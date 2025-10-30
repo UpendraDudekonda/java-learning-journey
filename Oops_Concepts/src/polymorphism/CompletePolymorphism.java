@@ -58,5 +58,17 @@ public class CompletePolymorphism {
 		System.out.println("********************************************");
 		
 	}
+	
+	//output 
+	
+	
+//	Robot is charging...
+//	the cleaning robo is learning how to clean..
+//	the robot is cleaning the floor
+//	********************************************
+//	Robot is charging...
+//	the teacher robot lerarning how to teach...
+//	the teacher robot is teacher the class...
+//	********************************************
 
 }
